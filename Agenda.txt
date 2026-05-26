@@ -1,0 +1,17 @@
+Agenda :
+
+Semaine 1 :
+
+Comprendre et expliquer les 4 méthodes de résolution
+
+Réfléchir a des pistes d'amélioration du code 
+
+Semaine 2 :
+
+Faire SAT Sudoku
+
+Faire bibliographie latex faire GUI sur pyqt
+
+Semaine 3 :
+
+Prétraitement contrainte, RL Sudoku, 
