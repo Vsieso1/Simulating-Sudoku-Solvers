@@ -1,0 +1,6 @@
+=== Complete Results for difficulty : expert ===
+
+=== Reinforcement Learning (RL) ===
+Time : [2.06, 1.89, 2.24, 2.1, 2.08, 1.88, 2.0, 2.24, 2.1, 2.08, 1.99, 2.14, 2.15, 2.12, 2.2, 2.16, 2.14, 1.98, 2.26, 1.87, 2.24, 2.16, 2.22, 2.13, 2.11, 2.0, 2.08, 2.03, 2.0, 2.35, 2.14, 1.97, 2.08,[...]
+Iterations : [42, 39, 45, 43, 43, 38, 41, 45, 43, 43, 40, 44, 44, 44, 45, 45, 44, 40, 43, 38, 47, 44, 46, 44, 43, 41, 42, 42, 41, 48, 44, 39, 43, 49, 42, 43, 41, 43, 42, 41, 41, 39, 47, 39, 40, 41, 47[...]
+Success : [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, F[...]
