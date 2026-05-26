@@ -1,0 +1,6 @@
+=== Complete Results for difficulty : medium ===
+
+=== Reinforcement Learning (RL) ===
+Time : [2.0, 1.86, 2.06, 2.09, 2.0, 1.84, 2.16, 1.94, 1.95, 2.07, 2.07, 2.04, 2.02, 2.11, 2.0, 2.48, 1.93, 1.87, 1.98, 1.98, 2.19, 1.91, 2.03, 1.8, 2.03, 1.93, 2.0, 2.01, 1.9, 2.06, 1.98, 2.11, 2.09,[...]
+Iterations : [42, 38, 43, 43, 41, 38, 44, 40, 40, 43, 43, 42, 42, 43, 41, 48, 40, 39, 40, 41, 45, 39, 42, 36, 42, 40, 41, 42, 38, 42, 41, 43, 43, 43, 44, 42, 45, 42, 42, 44, 43, 43, 41, 41, 43, 43, 41[...]
+Success : [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, F[...]
