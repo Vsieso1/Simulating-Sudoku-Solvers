@@ -1,0 +1,6 @@
+=== Complete Results for difficulty : impossible ===
+
+=== Reinforcement Learning (RL) ===
+Time : [2.29, 1.84, 2.18, 1.95, 2.24, 2.28, 2.14, 1.93, 2.2, 2.1, 2.2, 1.94, 2.17, 2.15, 2.05, 2.1, 1.94, 2.03, 2.18, 2.1, 2.05, 1.99, 1.93, 2.0, 1.99, 2.25, 2.24, 2.18, 1.86, 1.86, 2.0, 2.07, 2.14, [...]
+Iterations : [43, 38, 45, 40, 46, 46, 44, 39, 45, 43, 45, 40, 44, 44, 41, 43, 40, 41, 42, 43, 42, 41, 39, 41, 40, 46, 45, 44, 38, 36, 41, 43, 43, 40, 40, 45, 42, 43, 45, 44, 44, 44, 46, 42, 42, 45, 44[...]
+Success : [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, F[...]
