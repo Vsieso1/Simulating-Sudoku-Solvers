@@ -1,0 +1,6 @@
+=== Complete Results for difficulty : easy ===
+
+=== Reinforcement Learning (RL) ===
+Time : [2.3, 2.1, 2.07, 2.2, 2.14, 2.14, 2.21, 2.22, 1.97, 2.26, 2.18, 2.0, 2.35, 2.27, 2.11, 2.0, 2.33, 2.01, 2.23, 1.97, 1.79, 2.1, 2.03, 2.12, 2.14, 2.15, 2.14, 2.12, 2.02, 2.02, 2.04, 2.11, 2.11,[...]
+Iterations : [43, 41, 40, 44, 42, 43, 45, 45, 40, 45, 45, 41, 42, 44, 40, 41, 44, 41, 46, 41, 37, 43, 42, 43, 44, 44, 44, 43, 41, 42, 42, 41, 44, 41, 41, 43, 41, 42, 41, 41, 41, 43, 39, 41, 43, 43, 46[...]
+Success : [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, F[...]
